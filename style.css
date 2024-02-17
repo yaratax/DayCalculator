@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+body {
+    padding-top: 30px;
+    justify-content: center;
+    text-align: center;
+    background-image: url('images/Pinterest Pin.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1, h2 {
+    color: red;
+    font-family: "Kode Mono", monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 50px;
+}
+
+#hint {
+    color: red;
+
+}
+
+
+
+li {
+    padding-left: 10px;
+    list-style-type: none;
+    background-color: white;
+    opacity: 60%;
+    width: 40%;
+    font-size: 20px;
+    color: green;
+}
+
+label {
+    display: block;
+    width: 80%;
+}
+
+
+
